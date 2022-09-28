@@ -1,3 +1,2 @@
 # first
-second xxxx
-blbllblblblbll
+The first formal day of learning rust 
